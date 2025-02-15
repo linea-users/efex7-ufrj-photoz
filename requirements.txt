@@ -1,0 +1,10 @@
+numpy==1.23.5
+pandas==2.0.0
+seaborn==0.12.2
+astropy==7.0.1
+matplotlib== 3.10.0
+hpgeom
+healsparse
+pyproj>=3.1
+skyproj==2.0.0
+dblinea==1.0.0
